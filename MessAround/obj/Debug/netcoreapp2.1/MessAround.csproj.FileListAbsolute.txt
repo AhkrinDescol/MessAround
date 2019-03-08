@@ -1,0 +1,11 @@
+D:\Programming\C#\Rider Workspace\MessAround\MessAround\bin\Debug\netcoreapp2.1\MessAround.deps.json
+D:\Programming\C#\Rider Workspace\MessAround\MessAround\bin\Debug\netcoreapp2.1\MessAround.runtimeconfig.json
+D:\Programming\C#\Rider Workspace\MessAround\MessAround\bin\Debug\netcoreapp2.1\MessAround.runtimeconfig.dev.json
+D:\Programming\C#\Rider Workspace\MessAround\MessAround\bin\Debug\netcoreapp2.1\MessAround.dll
+D:\Programming\C#\Rider Workspace\MessAround\MessAround\bin\Debug\netcoreapp2.1\MessAround.pdb
+D:\Programming\C#\Rider Workspace\MessAround\MessAround\obj\Debug\netcoreapp2.1\MessAround.csprojAssemblyReference.cache
+D:\Programming\C#\Rider Workspace\MessAround\MessAround\obj\Debug\netcoreapp2.1\MessAround.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Rider Workspace\MessAround\MessAround\obj\Debug\netcoreapp2.1\MessAround.AssemblyInfoInputs.cache
+D:\Programming\C#\Rider Workspace\MessAround\MessAround\obj\Debug\netcoreapp2.1\MessAround.AssemblyInfo.cs
+D:\Programming\C#\Rider Workspace\MessAround\MessAround\obj\Debug\netcoreapp2.1\MessAround.dll
+D:\Programming\C#\Rider Workspace\MessAround\MessAround\obj\Debug\netcoreapp2.1\MessAround.pdb
