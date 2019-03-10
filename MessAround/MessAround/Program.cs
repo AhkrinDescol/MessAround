@@ -7,11 +7,11 @@ namespace MessAround
 		private static void Main()
 		{
 			Console.WriteLine("Hello, World!");
-			var thingy = new DeconstructTest();
-			(var myNum, var myObj) = thingy;
+			var baseObj = new DeconstructTest();
+			(var myNum, var myObj) = baseObj;
 			Console.WriteLine($"{myNum} {myObj.thingy}");
 			myObj.thingy = false;
-			Console.WriteLine($"{myNum} {thingy.myObj.thingy}");
+			Console.WriteLine($"{myNum} {baseObj.myObj.thingy}");
 		}
 	}
 	
