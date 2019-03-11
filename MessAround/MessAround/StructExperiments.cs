@@ -30,6 +30,7 @@ namespace MessAround
 			myObj = new MyObject();
 		}
 
+		// Deconstructers return structs, hence the relevance in this file.
 		public void Deconstruct(out int number, out MyObject obj)
 		{
 			number = myNum;
