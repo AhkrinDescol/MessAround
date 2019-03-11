@@ -25,5 +25,15 @@ namespace MessAroundTests
 			p2.X = 1;
 			Assert.True(p1.X != p2.X);
 		}
+
+		[Fact]
+		public void ReferenceContentsInStructsStillLiveOnTheHeap()
+		{
+			var baseObj = new DeconstructTest();
+			(var myNum, var myCopiedObj) = baseObj;
+			Assert.Equal(myCopiedObj.myObjBool, baseObj.myObj.myObjBool);
+			myCopiedObj.myObjBool = false; // Only tamper with it via one reference.
+			Assert.Equal(myCopiedObj.myObjBool, baseObj.myObj.myObjBool);
+		}
 	}
 }
